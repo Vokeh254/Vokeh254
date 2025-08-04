@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi there, I'm Kelvin Njoroge (Vokeh254)!<br><br>Front-end Developer | Video Editor | Graphic Designer | AI Enthusiast<br><br>---<br><br>## 🚀 About Me<br><br>I'm a passionate front-end developer who loves bringing creative ideas to life on the web! Whether I'm designing sleek interfaces, editing engaging videos, or exploring the latest in AI, I thrive on turning vision into reality. When I'm not coding, you'll find me on the tennis court or dancing salsa.<br><br>---<br><br>## 💻 Tech Stack<br><br>- **Languages:** HTML, CSS, JavaScript, Python<br>- **Frameworks/CMS:** WordPress<br>- **Design:** Graphic Design, Video Editing<br>- **Interests:** Artificial Intelligence<br><br>---<br><br>## 🌟 Notable Projects<br><br>- **🏠 Real-Estate Website (WordPress):** Built a feature-rich real-estate platform using WordPress.<br>- **🏠 Real-Estate Website (HTML/CSS/JS):** Developed a custom real-estate site from scratch using HTML, CSS, and JavaScript.<br>- **🛒 E-commerce Website (WordPress):** Created a modern and user-friendly online store with WordPress.<br>- **👤 Personal Portfolio (HTML/CSS):** Showcased my skills and works in a minimalist portfolio website.<br>- **🍽️ Restaurant Website (HTML/CSS/JS):** Designed an interactive restaurant site for an enhanced user experience.<br><br>---<br><br>## 🎾 Hobbies & Interests<br><br>- Playing Tennis<br>- Dancing Salsa<br>- Exploring new AI technologies<br><br>---<br><br>## 🌐 Connect With Me<br><br>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vokeh254)<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-njoroge-037719271/)<br>[![X/Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kelvoh254?t=iaGWOvNBzd_DCbJknRv9YQ&s=09)<br>📧 njorogekelvin2022@gmail.com<br><br>---<br><br>## 📊 GitHub Stats<br><br>![Vokeh254's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vokeh254&show_icons=true&theme=radical)<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokeh254&layout=compact&theme=radical)<br><br>---<br><br>## 🎉 Fun Fact<br><br>Despite building beautiful websites and editing slick videos, I can probably code a landing page faster than I can serve an ace on the tennis court—or spin on the salsa floor!<br><br>---<br><br>_Thanks for stopping by! Let's create something amazing together._
 
-<!--
-**Vokeh254/Vokeh254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vokeh254 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vokeh254 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokeh254 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Vokeh254 &icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
