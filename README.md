@@ -9,12 +9,12 @@
 
 <br/>
 
-<!-- Tagline pill — inspired by the green banner in the reference -->
+<!-- Tagline pill -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=800&color=00FFF5&background=0D1B2A&center=true&vCenter=true&width=600&height=40&lines=Join+me+in+solving+real-world+problems+through+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ─── STAT BADGES ROW (inspired by the reference layout) ─── -->
+<!-- STAT BADGES ROW -->
 ![Experience](https://img.shields.io/badge/EXPERIENCE-3%2B%20YEARS-8A2BE2?style=for-the-badge)
 &nbsp;
 ![Projects](https://img.shields.io/badge/PROJECTS-20%2B-00A550?style=for-the-badge)
@@ -48,6 +48,13 @@
 <div align="center">
 
 ## 👋 Hi There!
+
+<!-- Dark mode text panel using picture tag -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=99999&pause=99999&color=AAAAAA&background=0D111700&center=true&vCenter=true&width=700&height=20&lines=Kelvin+Njoroge+%7C+Full-Stack+Developer+%7C+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=99999&pause=99999&color=555555&background=FFFFFF00&center=true&vCenter=true&width=700&height=20&lines=Kelvin+Njoroge+%7C+Full-Stack+Developer+%7C+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=99999&pause=99999&color=AAAAAA&center=true&vCenter=true&width=700&height=20&lines=Kelvin+Njoroge+%7C+Full-Stack+Developer+%7C+Nairobi%2C+Kenya"/>
+</picture>
 
 I am **Kelvin Njoroge**, a **creative** and **impact-driven Full-Stack Developer**,
 **AI Enthusiast**, and **Video Editor** with a strong foundation in **Mathematics and Computer Science**,
@@ -154,18 +161,42 @@ const kelvin = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vokeh254&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00fff5&icon_color=bf5fff&text_color=ffffff&border_color=30363d&border_radius=10&hide_border=false" width="48%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Vokeh254&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00fff5&icon_color=bf5fff&text_color=ffffff&border_color=30363d&border_radius=10&hide_border=false"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Vokeh254&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00fff5&icon_color=bf5fff&text_color=ffffff&border_color=30363d&border_radius=10&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vokeh254&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00fff5&icon_color=bf5fff&text_color=ffffff&border_color=30363d&border_radius=10" width="48%"/>
+</picture>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vokeh254&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00fff5&text_color=ffffff&border_color=30363d&border_radius=10" width="40%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vokeh254&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00fff5&text_color=ffffff&border_color=30363d&border_radius=10"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vokeh254&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00fff5&text_color=ffffff&border_color=30363d&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vokeh254&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00fff5&text_color=ffffff&border_color=30363d&border_radius=10" width="40%"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vokeh254&theme=tokyonight&background=0D1117&ring=00FFF5&fire=BF5FFF&currStreakLabel=00FFF5&sideLabels=FFFFFF&dates=888888&border=30363D&border_radius=10" width="60%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=Vokeh254&theme=tokyonight&background=0D1117&ring=00FFF5&fire=BF5FFF&currStreakLabel=00FFF5&sideLabels=FFFFFF&dates=888888&border=30363D&border_radius=10"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=Vokeh254&theme=tokyonight&background=0D1117&ring=00FFF5&fire=BF5FFF&currStreakLabel=00FFF5&sideLabels=FFFFFF&dates=888888&border=30363D&border_radius=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vokeh254&theme=tokyonight&background=0D1117&ring=00FFF5&fire=BF5FFF&currStreakLabel=00FFF5&sideLabels=FFFFFF&dates=888888&border=30363D&border_radius=10" width="60%"/>
+</picture>
 
 <br/><br/>
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vokeh254&bg_color=0d1117&color=00fff5&line=bf5fff&point=ffffff&area=true&area_color=bf5fff&hide_border=false&border_color=30363d&radius=10" width="95%"/>
+<!-- Contribution Graph — dark forced via URL params -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vokeh254&bg_color=0d1117&color=00fff5&line=bf5fff&point=ffffff&area=true&area_color=bf5fff&hide_border=false&border_color=30363d&radius=10"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vokeh254&bg_color=0d1117&color=00fff5&line=bf5fff&point=ffffff&area=true&area_color=bf5fff&hide_border=false&border_color=30363d&radius=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vokeh254&bg_color=0d1117&color=00fff5&line=bf5fff&point=ffffff&area=true&area_color=bf5fff&hide_border=false&border_color=30363d&radius=10" width="95%"/>
+</picture>
 
 </div>
 
@@ -208,7 +239,7 @@ const kelvin = {
 <br/>
 
 [![GitHub](assets/badge-github.svg)](https://github.com/Vokeh254)&nbsp;&nbsp;
-[![X / Twitter](assets/badge-twitter.svg)](https://x.com/Vokeh254)&nbsp;&nbsp;
+[![X / Twitter](assets/badge-twitter.svg)](https://x.com/Kelvin-njoroge)&nbsp;&nbsp;
 [![LinkedIn](assets/badge-linkedin.svg)](https://www.linkedin.com/in/kelvin-njoroge-037719271)&nbsp;&nbsp;
 [![YouTube](assets/badge-youtube.svg)](https://youtube.com/@TruCoder_1)&nbsp;&nbsp;
 [![Email](assets/badge-email.svg)](mailto:njorogekelvin2022@gmail.com)
@@ -225,7 +256,13 @@ const kelvin = {
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vokeh254&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=7" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-trophy.vercel.app/?username=Vokeh254&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&column=7"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-trophy.vercel.app/?username=Vokeh254&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vokeh254&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&column=7" width="100%"/>
+</picture>
 
 </div>
 
@@ -258,7 +295,11 @@ const kelvin = {
 
 <br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+</picture>
 
 </div>
 
