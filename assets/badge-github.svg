@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="44">
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.1"/>
+    </linearGradient>
+  </defs>
+  <!-- Glow backdrop -->
+  <rect x="2" y="2" width="156" height="40" rx="20" ry="20" fill="none" stroke="#ffffff" stroke-width="1.5" filter="url(#glow)" opacity="0.25"/>
+  <!-- Main pill background -->
+  <rect x="2" y="2" width="156" height="40" rx="20" ry="20" fill="#0d1117" stroke="url(#borderGrad)" stroke-width="1.2"/>
+  <!-- GitHub icon -->
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJjMCA0LjQyIDIuODcgOC4xNyA2Ljg0IDkuNS42LjExLjgyLS4yNi44Mi0uNTd2LTIuMDFjLTMuMzQuNzMtNC4wNC0xLjYxLTQuMDQtMS42MUMxLjA4IDE1Ljk5LjQ2IDE1LjU3LjQ2IDE1LjU3Yy0uODktLjYxLjA3LS42LjA3LS42IDEgLjA3IDEuNTIgMS4wMiAxLjUyIDEuMDIuODkgMS41MiAyLjMzIDEuMDggMi45LjgzLjA5LS42NC4zNS0xLjA4LjYzLTEuMzMtMi4yMi0uMjUtNC41NS0xLjExLTQuNTUtNC45NCAwLTEuMDkuMzktMiAxLjAzLTIuNzFhMy41IDMuNSAwIDAgMSAuMS0yLjY1czguNDItMi43IDMuMTQgMGMtLjU0LS4xNS0xLjExLS4yMy0xLjY3LS4yM3MtMS4xMy4wOC0xLjY3LjIzYy01LjI4LTIuNyAzLjE0IDAgMy4xNCAwYTMuNSAzLjUgMCAwIDEgLjEgMi42NWMuNjQuNzEgMS4wMyAxLjYyIDEuMDMgMi43MSAwIDMuODQtMi4zNCA0LjY4LTQuNTcgNC45My4zNi4zMS42OC45MiA2OCAyLjA3djIuOTNjMCAuMzIuMjEuNjkuODMuNTdDMTkuMTMgMjAuMTcgMjIgMTYuNDIgMjIgMTJBMTAgMTAgMCAwIDAgMTIgMnoiLz48L3N2Zz4=" x="14" y="10" width="22" height="22"/>
+  <!-- Label -->
+  <text x="46" y="27" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff" letter-spacing="0.5">GitHub</text>
+</svg>
