@@ -33,9 +33,9 @@
 <br/>
 
 <!-- Visitor counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=Kelvin-njoroge&color=00fff5&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Vokeh254&color=00fff5&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Kelvin-njoroge?color=bf5fff&style=for-the-badge&logo=github&label=Followers)](https://github.com/Kelvin-njoroge)
+[![GitHub followers](https://img.shields.io/github/followers/Vokeh254?color=bf5fff&style=for-the-badge&logo=github&label=Followers)](https://github.com/Vokeh254)
 
 </div>
 
@@ -154,18 +154,18 @@ const kelvin = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kelvin-njoroge&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00fff5&icon_color=bf5fff&text_color=ffffff&border_color=30363d&border_radius=10&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vokeh254&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00fff5&icon_color=bf5fff&text_color=ffffff&border_color=30363d&border_radius=10&hide_border=false" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvin-njoroge&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00fff5&text_color=ffffff&border_color=30363d&border_radius=10" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vokeh254&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00fff5&text_color=ffffff&border_color=30363d&border_radius=10" width="40%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kelvin-njoroge&theme=tokyonight&background=0D1117&ring=00FFF5&fire=BF5FFF&currStreakLabel=00FFF5&sideLabels=FFFFFF&dates=888888&border=30363D&border_radius=10" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vokeh254&theme=tokyonight&background=0D1117&ring=00FFF5&fire=BF5FFF&currStreakLabel=00FFF5&sideLabels=FFFFFF&dates=888888&border=30363D&border_radius=10" width="60%"/>
 
 <br/><br/>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kelvin-njoroge&bg_color=0d1117&color=00fff5&line=bf5fff&point=ffffff&area=true&area_color=bf5fff&hide_border=false&border_color=30363d&radius=10" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vokeh254&bg_color=0d1117&color=00fff5&line=bf5fff&point=ffffff&area=true&area_color=bf5fff&hide_border=false&border_color=30363d&radius=10" width="95%"/>
 
 </div>
 
@@ -207,8 +207,8 @@ const kelvin = {
 
 <br/>
 
-[![GitHub](assets/badge-github.svg)](https://github.com/Kelvin-njoroge)&nbsp;&nbsp;
-[![X / Twitter](assets/badge-twitter.svg)](https://x.com/Kelvin-njoroge)&nbsp;&nbsp;
+[![GitHub](assets/badge-github.svg)](https://github.com/Vokeh254)&nbsp;&nbsp;
+[![X / Twitter](assets/badge-twitter.svg)](https://x.com/Vokeh254)&nbsp;&nbsp;
 [![LinkedIn](assets/badge-linkedin.svg)](https://www.linkedin.com/in/kelvin-njoroge-037719271)&nbsp;&nbsp;
 [![YouTube](assets/badge-youtube.svg)](https://youtube.com/@TruCoder_1)&nbsp;&nbsp;
 [![Email](assets/badge-email.svg)](mailto:njorogekelvin2022@gmail.com)
@@ -225,7 +225,7 @@ const kelvin = {
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kelvin-njoroge&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vokeh254&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=7" width="100%"/>
 
 </div>
 
