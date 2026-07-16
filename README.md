@@ -71,7 +71,7 @@ const kelvin = {
   currentFocus: "Building AI-powered web experiences",
   hobbies     : ["🎾 Tennis", "💃 Salsa Dancing", "🎬 Video Editing"],
   location    : "Nairobi, Kenya 🇰🇪",
-  lifeGoal    : "Turn every vision into reality — one commit at a time.",
+  lifeGoal    : "Turn every vision into reality ,one commit at a time.",
   funFact     : "I debug code the same way I return a tennis serve — with precision 🎯"
 };
 ```
@@ -212,9 +212,9 @@ const kelvin = {
 
 </div>
 
-> 🎾 **Tennis** keeps my reflexes sharp — just like debugging at 2am
+> 🎾 **Tennis** keeps my reflexes sharp, just like debugging at 2am
 >
-> 💃 **Salsa dancing** taught me that timing is everything — in dance *and* in code
+> 💃 **Salsa dancing** taught me that timing is everything, in dance *and* in code
 >
 > 🎬 I edit videos with the same perfectionism I apply to clean code
 >
@@ -288,18 +288,19 @@ const kelvin = {
 
 <div align="center">
 
-### ✨ Thanks for stopping by — you're awesome for making it this far! ✨
+### ✨ Thanks for stopping by, you're awesome for making it this far! ✨
 
 *"The best time to plant a tree was 20 years ago. The second best time is now."*
 *— and the same goes for that side project you've been putting off. Let's build it. 🚀*
 
 <br/>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 </picture>
+-->
 
 </div>
 
