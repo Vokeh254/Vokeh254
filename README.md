@@ -291,7 +291,7 @@ const kelvin = {
 ### ✨ Thanks for stopping by, you're awesome for making it this far! ✨
 
 *"The best time to plant a tree was 20 years ago. The second best time is now."*
-*— and the same goes for that side project you've been putting off. Let's build it. 🚀*
+*, and the same goes for that side project you've been putting off. Let's build it. 🚀*
 
 <br/>
 
